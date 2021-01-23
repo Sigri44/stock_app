@@ -1,2 +1,2 @@
 # stock_app
-Website for stocks tracking
+Website for stocks tracking with Symfony & Docker
